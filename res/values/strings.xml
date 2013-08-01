@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AndroidDynamicControls</string>
+    
+    <!-- ViewsActivity -->
+    <string name="info_message">Draw on the screen any View with the desired size!</string>
+	<string name="button_message">Change Button Color</string>
+	<string name="textview_message">Change TextView Color</string>
+	<string name="brightness_message">Configure the desired Brightness</string>
+	<string name="night_mode_message">Night Mode</string>
+	<string name="volume_message">Configure the desired Volume</string>
+	
+</resources>
